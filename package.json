@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@react-three/drei": "^9.17.3",
+    "react-spring": "^9.5.1"
+  },
+  "devDependencies": {
+    "next-transpile-modules": "^9.0.0"
+  }
+}
